@@ -13,4 +13,11 @@ p{
 }
 .delivery{
     text-decoration: underline;
+    cursor: pointer;
+}
+.delivery:hover{
+    color: blue;
+}
+.delivery:active{
+    color: aqua;
 }
