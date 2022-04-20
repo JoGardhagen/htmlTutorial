@@ -1,0 +1,27 @@
+button{
+    position: fixed;
+    bottom: 80%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 14px;
+    cursor: pointer;
+    transition: 0.15s;
+}
+button:hover{
+    padding-top: 5%;
+}
+.btn{
+    left: 70%;   
+}
+.btn2{
+    left: 80%;
+}
+.btn3{
+    left:90%;  
+}
+
